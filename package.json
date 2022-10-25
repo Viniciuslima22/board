@@ -2,6 +2,11 @@
   "name": "board",
   "version": "0.1.0",
   "private": true,
+  "enginies": {
+   "node" : "16.18.0",
+   "npm": "8.19.2",
+   "yarn": "1.22.19"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
